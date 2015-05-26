@@ -2,10 +2,10 @@
 
 R scripts for making gift tags with ggplot.
 
-### Snowman
+### [snowman.R](snowman.R)
 
 ![Frosty](frosty.jpeg)
 
-### Christmas Tree
+### [christmastree.R](christmastree.R)
 
 ![Christmas tree](tree1.jpeg)
