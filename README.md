@@ -12,7 +12,7 @@ R scripts for making Christmas cards/ gift tags with R.
 
 ![Christmas tree](tree1.jpeg)
 
-## [BPG](http://labs.oicr.on.ca/boutros-lab/software/bpg)
+## [BPG](https://CRAN.R-project.org/package=BoutrosLab.plotting.general)
 
 ### [bpg_tree.R](bpg_tree.R)
 
