@@ -20,3 +20,4 @@ R scripts for making Christmas cards/ gift tags with R.
 
 ### [snowman_heatmap.R](snowman_heatmap.R)
 ![Snowman heatmap](snowman_heatmap.png)
+![Snowman heatmap live](IMG_0711.jpg)
