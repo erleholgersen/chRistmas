@@ -15,7 +15,7 @@ R scripts for making Christmas cards/ gift tags with R.
 ### [hexbin_santa.R](hexbin_santa.R) (2018)
 
 <p style="margin-top: 50px">
-<img src="images/hexbin_santa.png" style="width: 400px" />
+<img src="images/hexbin_santa.png" style="width: 300px" />
 </p>
 
 ## [BPG](https://CRAN.R-project.org/package=BoutrosLab.plotting.general)
